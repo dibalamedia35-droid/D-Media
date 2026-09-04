@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#f6f3ed" />
+  <title>D-Media | Stories with perspective</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="site-header"><a class="brand" href="#home"><span class="brand-mark">D</span><span>D-Media</span></a><nav class="main-nav"><a href="#latest">Latest</a><a href="#categories">Categories</a><a href="#about">About</a></nav><div class="header-actions"><button class="icon-btn" id="searchToggle" aria-label="Search">⌕</button><button class="text-btn" id="authButton">Sign in</button><a class="admin-link" id="adminLink" href="#admin" hidden>Dashboard <span>↗</span></a><button class="menu-btn" id="menuToggle">☰</button></div></header>
+  <div class="search-bar" id="searchBar"><input id="searchInput" type="search" placeholder="Search stories, topics, people..." /><button class="icon-btn" id="searchSubmit">→</button></div>
+  <main id="app"></main>
+  <footer class="site-footer"><div><a class="brand" href="#home"><span class="brand-mark">D</span><span>D-Media</span></a><p>Independent journalism with a distinctly African point of view.</p></div><div class="footer-links"><a href="#latest">Latest stories</a><a href="#categories">Explore topics</a><a href="#about">Our mission</a></div><div class="footer-note">© 2026 D-Media<br />Made for curious minds.</div></footer>
+  <div class="modal-backdrop" id="modal" hidden><section class="modal" role="dialog" aria-modal="true"><button class="modal-close" id="modalClose">×</button><div id="modalContent"></div></section></div>
+  <div class="toast" id="toast"></div>
+  <script src="/app.js"></script>
+</body>
+</html>

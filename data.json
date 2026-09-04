@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "u-admin",
+      "name": "D-Media Editor",
+      "email": "admin@dmedia.news",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ],
+  "news": [
+    {
+      "title": "Ethiopia’s New Generation of Digital Creators Is Changing the Future",
+      "excerpt": "Young digital creators are building new ideas, businesses, and opportunities across Ethiopia.",
+      "content": "Across Ethiopia, a new generation of digital creators is using technology, creativity, and entrepreneurship to build opportunities for the future. From media and education to technology and business, young people are creating solutions that connect communities and open new possibilities.",
+      "category": "Innovation",
+      "author": "D-Media Editorial",
+      "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1000&q=85",
+      "featured": true,
+      "readTime": "4 min read",
+      "date": "2026-09-04",
+      "id": "n-18cd5a9a-8a1c-4b0d-b401-73a8d1f05a72"
+    },
+    {
+      "id": "n-1",
+      "title": "The next chapter of African innovation is being written now",
+      "excerpt": "From clean energy to creative technology, a new generation of builders is reshaping the continent.",
+      "content": "Across Africa, a new generation of builders is turning ambitious ideas into practical solutions. The story is no longer only about potential; it is about the products, communities and infrastructure being built today.\n\nFrom distributed energy to a fast-growing creative economy, local insight is becoming a competitive advantage. D-Media will keep following the people moving this story forward.",
+      "category": "Innovation",
+      "author": "Amara Okafor",
+      "date": "2026-09-03",
+      "readTime": "5 min read",
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1400&q=85"
+    },
+    {
+      "id": "n-2",
+      "title": "Cities rethink public space for a warmer, faster future",
+      "excerpt": "New urban projects are putting shade, walkability and community back at the center of city life.",
+      "content": "Cities are changing quickly, and the most thoughtful projects are making room for people first. New public spaces combine cooling landscapes, flexible transit and places to gather.",
+      "category": "Culture",
+      "author": "Tunde Bello",
+      "date": "2026-09-02",
+      "readTime": "4 min read",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1000&q=85"
+    },
+    {
+      "id": "n-3",
+      "title": "The independent creators building Africa’s new media economy",
+      "excerpt": "A look at the studios, newsletters and platforms creating more room for original voices.",
+      "content": "Independent creators are building resilient businesses around trust, craft and a direct relationship with their audiences. Their work is changing how stories are made and shared.",
+      "category": "Business",
+      "author": "Nia Mensah",
+      "date": "2026-09-01",
+      "readTime": "6 min read",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1000&q=85"
+    },
+    {
+      "id": "n-4",
+      "title": "Five quiet places to find a fresh perspective this weekend",
+      "excerpt": "A considered guide to galleries, gardens and neighborhood spaces worth slowing down for.",
+      "content": "The best reset does not always require a long journey. These local spaces offer room to think, make and reconnect with the city around you.",
+      "category": "Lifestyle",
+      "author": "Kemi Adeyemi",
+      "date": "2026-08-30",
+      "readTime": "3 min read",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1000&q=85"
+    },
+    {
+      "id": "n-5",
+      "title": "Why the next wave of founders is choosing patient growth",
+      "excerpt": "A more deliberate approach to building is taking root across the region.",
+      "content": "For many founders, sustainable growth is replacing the pressure to move fast at any cost. The shift is creating businesses with deeper roots and stronger communities.",
+      "category": "Business",
+      "author": "David Obi",
+      "date": "2026-08-28",
+      "readTime": "5 min read",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1000&q=85"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "d-media-news-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "D-Media full stack news platform",
+  "scripts": {
+    "start": "node server.js",
+  "dev": "node server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  }
+}
